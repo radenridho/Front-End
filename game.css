@@ -62,15 +62,6 @@ nav {
     margin-right: 10px;
     font-size: 15px;
 }
-.nav-link:hover::after {
-    content: '';
-    display: block;
-    border-bottom: 3px solid #0b63dc;
-    width: 50%;
-    margin: auto;
-    padding-bottom: 5px;
-    margin-bottom: -8px;
- }
 .about-img .img-fluid {
     margin-top: 20%;
     border-radius: 20px 20px 20px 20px;
